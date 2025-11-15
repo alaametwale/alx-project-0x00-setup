@@ -1,4 +1,4 @@
-{
+﻿{
   // Visit https://aka.ms/tsconfig to read more about this file
   "compilerOptions": {
     // File Layout
@@ -40,5 +40,5 @@
     "noUncheckedSideEffectImports": true,
     "moduleDetection": "force",
     "skipLibCheck": true,
-  }
-}
+  ,baseUrl: ., paths: {@/*:[./*]}}}
+,baseUrl: ., paths: {@/*:[./*]}}}
